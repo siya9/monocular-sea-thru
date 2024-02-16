@@ -1,0 +1,6 @@
+
+seathru:
+https://github.com/hainh/sea-thru
+
+
+py seathru-mono-e2e.py --image fish1.JPG --output fish1ooo.png
